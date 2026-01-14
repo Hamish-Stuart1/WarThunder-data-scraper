@@ -1,0 +1,1 @@
+# WarThunder-data-scraper
